@@ -1,0 +1,18 @@
+algo/Test.java
+ algo.Test
+algo/Exam.java
+ algo.Exam
+algo/Trail.java
+ algo.Trail
+algo/Solution.java
+ algo.Solution
+algo/Test2.java
+ algo.Test2
+algo/FibonacciSeries.java
+ algo.FibonacciSeries
+algo/SingleTonTest.java
+ algo.SingleTonTest
+algo/CandleResidueProblem.java
+ algo.CandleResidueProblem
+algo/UseSingle.java
+ algo.UseSingle
